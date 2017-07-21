@@ -1,2 +1,2 @@
-# jekyll
+# Jekyll
 Github Pages + Jekyll
